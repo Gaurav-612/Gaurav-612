@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on tackling the misinformation problem with Cognitive AI [@Limbik](https://www.limbik.com/)
+- 🔭 I’m currently working on tackling the misinformation problem with Cognitive AI @[Limbik](https://www.limbik.com/)
 - 🌱 I’m learning about LLMs, MLOps, and AI Engineering
 - 👯 Down to collaborate on any cool projects, especially in the Climate Tech space 
 - 📫 How to reach me: Checkout my [website](https://gmudbhat.com/)

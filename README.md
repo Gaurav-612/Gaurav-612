@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on tackling the misinformation problem with Cognitive AI @[Limbik](https://www.limbik.com/)
+- 🔭 I’m currently working on simulating human response with Cognitive AI @[Limbik](https://www.limbik.com/)
 - 🌱 I’m learning about LLMs, MLOps, and AI Engineering
-- 👯 Down to collaborate on any cool projects, especially in the Climate Tech space 
+- 👯 Down to collaborate on any cool projects, especially in the Climate/Energy Tech space 
 - 📫 How to reach me: Checkout my [website](https://gmudbhat.com/)
 <!--
 **Gaurav-612/Gaurav-612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
